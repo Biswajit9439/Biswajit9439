@@ -3,7 +3,7 @@ Hey Everyone! I'm Biswajit Sahoo.<br>👷 Software Engineer @ EPAM Systems<br>�
 
 **Experience**:
 
-- 👨🏾‍💻 Software Engineer @ EPAM Systems (April 2024 - Present)
+- 👨🏾‍💻 Software Engineer @ EPAM Systems (March 2024 - Present)
 - 💻 Working as a MERN/MEAN ( HTML,CSS, JavaScript, React/Angular, MongoDB, Node, Express, AWS, Docker, Bitbucket) stack developer.
 
 
