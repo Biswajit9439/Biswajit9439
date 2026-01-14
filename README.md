@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hey Everyone! I'm Biswajit Sahoo.<br>👷 Software Engineer @ EPAM Systems<br>👨‍🎓 B.Tech in Computer Science and engineering(2019-23) from GIFT,BBSR..
+Hey Everyone! I'm Biswajit Sahoo.<br>👷 Software Engineer @ EPAM Systems<br>👨‍🎓 B.Tech in Computer Science and engineering(2019-23) from GIFT,BBSR.
+
+**Experience**:
+
+- 👨🏾‍💻 Software Engineer @ EPAM Systems (April 2024 - Present)
+- 💻 Working as a MERN/MEAN ( HTML,CSS, JavaScript, React/Angular, MongoDB, Node, Express, AWS, Docker, Bitbucket) stack developer.
 
 
 ## 🌐 Socials:
